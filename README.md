@@ -11,6 +11,14 @@ Audience size and engagement varies noticeably among different creators, even wi
 Visualizing across platforms (Python & Power BI) enriched the understanding and clarity of data-driven trends.
 Project Files Included Python scripts for data extraction, cleaning, and visualization
 
+Project Statistical Highlights
+- Analysis shows that long videos (over 10 minutes) had an average engagement of 0.045, while short videos (10 minutes or less) averaged 0.031 engagement.
+- Shorter videos actually saw 46.7% lower average engagement than longer videos in this dataset, contrary to many general assumptions.
+- The overall average engagement across all educational YouTube videos analyzed was 0.037, with individual values ranging from as low as 0.002 to as high as 0.119.
+- The channel “CrashCourse” had the highest average engagement at 0.054, indicating stronger audience interaction compared to peers.
+
+Strong positive correlations were found between views and likes (correlation coefficient: 0.93), and between views and comments (correlation coefficient: 0.80), showing that higher view counts are strongly associated with more active audience feedback.
+
 Cleaned dataset: youtube_education_trends.csv
 
 Power BI report: Report.pdf
